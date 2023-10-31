@@ -10,6 +10,7 @@ public class App {
 
         car1.printData();
         car1.accelerate();
+        car1.brake();
         car1.printData();
 
         System.out.println("Enter the amount of fuel to refuel: ");
@@ -22,6 +23,7 @@ public class App {
 
         car2.printData();
         car2.accelerate();
+        car2.brake();
         car2.printData();
 
         System.out.println("Enter the amount of fuel to refuel: ");
